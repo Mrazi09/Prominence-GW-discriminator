@@ -1,2 +1,8 @@
 # Prominence-GW-discriminator
-Auxiliar codes for the paper: "Prominence: A discriminator of gravitational wave signals" by myself and collaborators.  arXiv:2509.04384
+Auxiliar codes for the paper: "Prominence: A discriminator of gravitational wave signals" by myself and collaborators (António P. Morais and Danny Marfatia). Paper available at arXiv:2509.04384.
+
+**GW_Data**: ```.csv``` files with the sensitivity curves for different experiments. For the NG15 file, it is the periodrigams dataset;
+
+**Plots**: Folder with some example plots;
+
+**Prominence**: ```jupyter``` notebook for the calculation of the prominence histograms. As an example, the calculation is done for Case B of the paper 
