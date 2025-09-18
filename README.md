@@ -3,6 +3,6 @@ Auxiliary code for the paper: "Prominence: A discriminator of gravitational wave
 
 **GW_Data**: ```.csv``` files with the sensitivity curves for different GW experiments. For the NANOGrav data, the periodrigams dataset is included;
 
-**Plots**: Folder with some example plots. Can be generated from the ```jupyter``` notebook;
+**Plots**: Folder with an example. Can be generated from the ```jupyter``` notebook;
 
 **prominence.ipynb**: ```jupyter``` notebook for the calculation of the prominence histograms. As an example, the calculation is done for Case B of the paper 
