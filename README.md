@@ -1,5 +1,5 @@
 # Prominence: GW discriminator
-Auxiliary code for the paper: "Prominence: A discriminator of gravitational wave signals" by João Gonçalves, Danny Marfatia and António P. Morais. Original paper available at [arXiv:2509.04384.](https://arxiv.org/abs/2509.04384)
+Auxiliary code for the paper: "*Prominence*: A discriminator of gravitational wave signals" by João Gonçalves, Danny Marfatia and António P. Morais. Original paper available at [arXiv:2509.04384.](https://arxiv.org/abs/2509.04384)
 
 **GW_Data**: ```.csv``` files with the sensitivity curves for different GW experiments. For the NANOGrav data, the periodrigams dataset is included;
 
