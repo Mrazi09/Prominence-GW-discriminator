@@ -1,8 +1,8 @@
 # Prominence: GW discriminator
-Auxiliary code for the paper: "*Prominence*: A discriminator of gravitational wave signals" by João Gonçalves, Danny Marfatia and António P. Morais. Original paper available at [arXiv:2509.04384.](https://arxiv.org/abs/2509.04384)
+Auxiliary code for the paper: "*Prominence*: A discriminator of gravitational wave signals" by João Gonçalves, Danny Marfatia and António P. Morais. The original paper is available at [arXiv:2509.04384.](https://arxiv.org/abs/2509.04384)
 
-**GW_Data**: ```.csv``` files with the sensitivity curves for different GW experiments. For the NANOGrav data, the periodrigams dataset is included;
+**GW_Data**: ```.csv``` files containing the sensitivity curves of different GW experiments. For NANOGrav, the periodogram dataset is also included;
 
-**Plots**: Folder with an example. Can be generated from the ```jupyter``` notebook;
+**Plots**: Folder where plots are saved (plots are generated using the provided ```jupyter``` notebook;
 
-**prominence.ipynb**: ```jupyter``` notebook for the calculation of the prominence histograms. As an example, the calculation is done for Case B of the paper 
+**prominence.ipynb**: ```jupyter``` notebook for caculating the prominence PDFs and p-values. As an example, the calculation is done for Case B of the paper.
