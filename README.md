@@ -8,3 +8,5 @@ Auxiliary code for the paper: "*Prominence*: A discriminator of gravitational wa
 **Signal_Data**: ```.csv``` files containing example signals (2 for DWs and 2 for FOPTs).  
 
 **prominence-sens.ipynb**: ```jupyter``` notebook for caculating the prominence PDFs and p-values.  As an example, the calculation is done for Figure 5 of the paper.
+
+**MCMC**: Contains scripts implementing the Markov Chain Monte Carlo algorithm using the ```emcee``` package. These scripts are designed to minimize the $\chi^2$ statistic defined in Section 4.4 of the paper.
